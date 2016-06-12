@@ -1,4 +1,5 @@
-## Browser support
+## Repository moved
 
-- IE 9.0+ mainly due to AngularJS.
-- Firefox 9.0+ due to use of Node.contains().
+Development has moved to https://github.com/Skalman/baseconvert.
+
+See also the online GUI is still available at http://baseconvert.com/.
